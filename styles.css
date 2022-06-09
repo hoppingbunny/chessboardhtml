@@ -1,0 +1,15 @@
+.box { width : 75px;
+    height :75px;
+    border : 1px solid black;
+    display: inline-block;
+    margin:-2px;
+    font-size: 50px;
+    text-align: center;
+
+
+}
+.black{
+    background-color: black;
+    color : white;
+}
+
